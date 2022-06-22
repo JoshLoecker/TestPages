@@ -1,5 +1,7 @@
 # Read Me
 
+Please view the documentation at [joshloecker.github.io/TestPages](https://joshloecker.github.io/TestPages/)
+
 [![pages-build-deployment](https://github.com/JoshLoecker/TestPages/actions/workflows/pages/pages-build-deployment/badge.svg "Documentation Deployment")](https://github.com/JoshLoecker/TestPages/actions/workflows/pages/pages-build-deployment)
 
 This is the "README.md" page for this GitHub repository.
