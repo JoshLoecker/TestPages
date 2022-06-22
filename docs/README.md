@@ -4,4 +4,4 @@
 
 This is the "README.md" page for this GitHub repository.
 
-Please view [this link](./docs/MADRID.md) for more information
+Please view [this link](./MADRID.md) for more information
